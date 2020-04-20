@@ -24,7 +24,6 @@ import { ModalUploadComponent } from '../components/modal-upload/modal-upload.co
         HeaderComponent,
         SidebarComponent,
         BreadcrumbsComponent,
-        NopagefoundComponent,
         ModalUploadComponent
     ],
     exports: [
@@ -32,7 +31,6 @@ import { ModalUploadComponent } from '../components/modal-upload/modal-upload.co
         HeaderComponent,
         SidebarComponent,
         BreadcrumbsComponent,
-        NopagefoundComponent,
         ModalUploadComponent
     ]
 })
